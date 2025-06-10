@@ -167,7 +167,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:721px;
+  width:390px;
   height:15px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -180,7 +180,7 @@
   position:absolute;
   left:159px;
   top:830px;
-  width:721px;
+  width:390px;
   height:15px;
   display:flex;
   transition:none;
@@ -244,7 +244,7 @@
   border-width:0px;
   position:absolute;
   left:46px;
-  top:1578px;
+  top:1623px;
   width:1660px;
   height:672px;
   display:flex;
@@ -303,6 +303,42 @@
   width:100%;
 }
 #u7_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u8_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1131px;
+  height:45px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border-radius:0px;
+  filter:drop-shadow(none);
+  transition:none;
+}
+#u8 {
+  border-width:0px;
+  position:absolute;
+  left:88px;
+  top:1559px;
+  width:1131px;
+  height:45px;
+  display:flex;
+  transition:none;
+  transform-origin:50% 50%;
+}
+#u8 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u8_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
