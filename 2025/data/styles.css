@@ -58,8 +58,14 @@
   font-size:10px;
   text-align:left;
 }
+.label {
+  font-size:13px;
+  text-align:left;
+}
 ._段落 {
   text-align:left;
+}
+.arrow {
 }
 ._表单提示文本 {
   color:#999999;
@@ -78,5 +84,14 @@
   text-align:left;
 }
 .box_2 {
+}
+.shape1 {
+}
+.image {
+  color:#000000;
+}
+.box_21 {
+}
+.box_11 {
 }
 textarea, select, input, button, div, svg { outline: none; }
